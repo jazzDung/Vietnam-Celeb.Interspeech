@@ -1,4 +1,20 @@
 # Vietnam-Celeb: a large-scale dataset for Vietnamese speaker recognition
+
+### Contact email: thanh.pv.ds@gmail.com
+### Paper URL: https://www.isca-speech.org/archive/interspeech_2023/pham23b_interspeech.html
+
+### Citation:
+```
+@inproceedings{pham23b_interspeech,
+  author={Viet Thanh Pham and Xuan Thai Hoa Nguyen and Vu Hoang and Thi Thu Trang Nguyen},
+  title={{Vietnam-Celeb: a large-scale dataset for Vietnamese speaker recognition}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={1918--1922},
+  doi={10.21437/Interspeech.2023-1989}
+}
+```
+
 - This is the repository for the anonymous submission of the Vietnam-Celeb dataset at Interspeech 2023.
 
 - This repository includes four parts of the dataset:
